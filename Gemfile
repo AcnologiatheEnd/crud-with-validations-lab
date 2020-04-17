@@ -13,6 +13,7 @@ gem 'bootsnap'
 group :development, :test do
   gem 'capybara'
   gem 'pry'
+  gem 'rspec-rails'
 end
 
 group :development do
